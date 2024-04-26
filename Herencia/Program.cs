@@ -11,7 +11,7 @@ namespace Herencia
     class Operacion
     {
         //Guarda los espacios de memoria de 3 valores lolol
-        // modificador tipo de dato nombre
+        // modificador tipo de dato nombre hola
         protected int valor1;
         protected int valor2;
         protected int resultado;
